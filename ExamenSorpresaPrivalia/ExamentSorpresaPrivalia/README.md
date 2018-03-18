@@ -1,0 +1,1 @@
+- He utilitzat la Interficie CRUDrespositories. Aquesta interficie fa les consultes sql com a transactionals.
